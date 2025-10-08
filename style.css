@@ -137,13 +137,5 @@
     .main-content {
       flex-direction: column;
     }
-  
-    .plan, .benefits {
-      min-width: 100%;
-    }
-  
-    .header {
-      padding: 30px;
-    }
   }
   
