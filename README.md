@@ -3,19 +3,15 @@
 ### Ce projet consiste en la création d'une carte de tarification moderne et responsive développée en HTML et CSS. L'objectif est de présenter une offre d'abonnement claire et attractive, avec une mise en page adaptée à tous les appareils.
 
 ### Fonctionnalités
-✅ Design responsive (mobile, tablette, desktop)
+- Design responsive (mobile, tablette, desktop)
 
-✅ Structure HTML sémantique
+- Structure HTML sémantique
 
-✅ Flexbox pour la mise en page
+- Flexbox pour la mise en page
 
-✅ Effets de hover interactifs
+- Effets de hover interactifs
 
-✅ Palette de couleurs moderne et accessible
-
-✅ Typographie soignée
-
-✅ Code CSS organisé et maintenable
+- Code CSS organisé et maintenable
 
 ## Guide de Style
 ### Couleurs
@@ -104,33 +100,29 @@
 Adapter les Points de Rupture
 Ajuster les media queries 
 
-✅ Structure sémantique
+- Structure sémantique
 
-✅ Balises appropriées (section, h2, h3, ul, li)
+- Balises appropriées (section, h2, h3, ul, li)
 
-✅ Attributs alt pour les images
+- Hiérarchie des titres respectée
 
-✅ Hiérarchie des titres respectée
+## CSS
+- Organisation logique des styles
 
-CSS
-✅ Organisation logique des styles
+-  Utilisation de classes descriptives
 
-✅ Utilisation de classes descriptives
+- Unités relatives (rem, %) quand approprié
 
-✅ Reset CSS pour la cohérence cross-browser
+- Media queries pour le responsive
 
-✅ Unités relatives (rem, %) quand approprié
+## Accessibilité
+- Contrastes de couleurs suffisants
 
-✅ Media queries pour le responsive
+- Structure logique du contenu
 
-Accessibilité
-✅ Contrastes de couleurs suffisants
+- États focus/hover visibles
 
-✅ Structure logique du contenu
-
-✅ États focus/hover visibles
-
-✅ Texte lisible et hiérarchisé
+- Texte lisible et hiérarchisé
 
 # Fonctionnalités Avancées Implémentées
 Effets Visuels
